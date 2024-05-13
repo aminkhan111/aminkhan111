@@ -1,23 +1,23 @@
-<h1 align="center">Hey Everyone 👋, I'm Vivek Parde</h1>
+<h1 align="center">Hey Everyone 👋, I'm Abdul Amin Khan</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vivek3454&label=Profile%20views&color=0e75b6&style=flat" alt="vivek3454" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aminkhan111&label=Profile%20views&color=0e75b6&style=flat" alt="aminkhan111" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/vivek3454](https://github.com/vivek3454)
+- 👨‍💻 All of my projects are available at [ https://github.com/aminkhan111]( https://github.com/aminkhan111)
 
 - 💬 Ask me about **MERN Stack**
 
-- 📄 Know about my experiences [https://vivek-parde.netlify.app/images/myResume.pdf](https://vivek-parde.netlify.app/images/myResume.pdf)
+- 📄 Know about my experiences [ https://aminkhan-portfolio.netlify.app/)
 
-- 📫 How to reach me **vivekparde2411@gmail.com**
+- 📫 How to reach me **aminkhanofficial24@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/vivek-parde-13956022b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vivek-parde-13956022b" height="30" width="40" /></a>  
+<a href=" https://www.linkedin.com/in/abdul-amin-khan-111hit/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt=" abdul-amin-khan-111hit" height="30" width="40" /></a>  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
