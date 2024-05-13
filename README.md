@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Abdul Amin Khan</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
-<img align="right" alt="Coding" width="600" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="500" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aminkhan111&label=Profile%20views&color=0e75b6&style=flat" alt="aminkhan111" /> </p>
 
